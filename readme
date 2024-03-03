@@ -1,14 +1,14 @@
-#### For requirements:
+#### For requirements
 
-https://pip.pypa.io/en/stable/cli/pip_freeze/
+<https://pip.pypa.io/en/stable/cli/pip_freeze/>
 
-https://pypi.org/project/pipenv/
+#### Pipenv
+<https://pypi.org/project/pipenv/>
 
-
-####  Create environment:
+#### Create environment
 
 ```
 python -m venv .env
 ```
 
-https://www.kaggle.com/
+<https://www.kaggle.com/>
