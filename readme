@@ -3,6 +3,7 @@
 <https://pip.pypa.io/en/stable/cli/pip_freeze/>
 
 #### Pipenv
+
 <https://pypi.org/project/pipenv/>
 
 #### Create environment
@@ -10,5 +11,7 @@
 ```
 python -m venv .env
 ```
+
+<https://github.com/SRAKIB17/learning-python>
 
 <https://www.kaggle.com/>
